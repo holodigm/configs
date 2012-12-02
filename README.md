@@ -1,4 +1,1 @@
-configs
-=======
-
-configs
+bash scripts etc
